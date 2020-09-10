@@ -1,1 +1,2 @@
-# C-21HW
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
